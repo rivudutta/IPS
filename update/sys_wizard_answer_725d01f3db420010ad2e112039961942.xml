@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>COM OPS</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>COM OPS</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">e8cad1555d121300651727c3e282e84b</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-06 18:19:13</sys_created_on>
+        <sys_id>725d01f3db420010ad2e112039961942</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>COM OPS</sys_name>
+        <sys_package display_value="IPS" source="x_42561_ips">ec29c1bbdb020010ad2e112039961963</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPS">ec29c1bbdb020010ad2e112039961963</sys_scope>
+        <sys_update_name>sys_wizard_answer_725d01f3db420010ad2e112039961942</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-06 18:19:13</sys_updated_on>
+        <table/>
+        <target_url>x_42561_ips_srf_com_ops.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

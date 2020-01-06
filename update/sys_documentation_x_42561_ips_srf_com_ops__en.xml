@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="COM OPS" language="en" table="x_42561_ips_srf_com_ops">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>COM OPS</label>
+            <language>en</language>
+            <name>x_42561_ips_srf_com_ops</name>
+            <plural>COM OPSs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-06 18:19:14</sys_created_on>
+            <sys_id>b25d01f3db420010ad2e112039961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>COM OPS</sys_name>
+            <sys_package display_value="IPS" source="x_42561_ips">ec29c1bbdb020010ad2e112039961963</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPS">ec29c1bbdb020010ad2e112039961963</sys_scope>
+            <sys_update_name>sys_documentation_x_42561_ips_srf_com_ops__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-06 18:19:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
