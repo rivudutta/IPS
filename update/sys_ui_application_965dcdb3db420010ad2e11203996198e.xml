@@ -2,7 +2,7 @@
     <sys_ui_application action="INSERT_OR_UPDATE">
         <active>true</active>
         <hint/>
-        <name>COM OPS SRF</name>
+        <name>IPS</name>
         <order/>
         <roles>x_42561_ips.com_ops_user</roles>
         <sys_class_name>sys_ui_application</sys_class_name>
@@ -11,14 +11,14 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>965dcdb3db420010ad2e11203996198e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>COM OPS SRF</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>IPS</sys_name>
         <sys_overrides/>
         <sys_package display_value="IPS" source="x_42561_ips">ec29c1bbdb020010ad2e112039961963</sys_package>
         <sys_policy/>
         <sys_scope display_value="IPS">ec29c1bbdb020010ad2e112039961963</sys_scope>
         <sys_update_name>sys_ui_application_965dcdb3db420010ad2e11203996198e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-06 18:19:12</sys_updated_on>
+        <sys_updated_on>2020-01-06 18:32:20</sys_updated_on>
     </sys_ui_application>
 </record_update>
